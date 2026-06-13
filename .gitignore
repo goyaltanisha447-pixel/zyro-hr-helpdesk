@@ -1,0 +1,4 @@
+.env
+hr_docs/
+__pycache__/
+*.pyc
